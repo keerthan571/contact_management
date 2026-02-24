@@ -1,0 +1,123 @@
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 1
+Enter Name: Hari
+Enter Phone (unique): 9090676758
+Enter Email: hari@gmail.com
+Contact added successfully.
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 1
+Enter Name: Ram
+Enter Phone (unique): 9032324545
+Enter Email: ram@gmail.com
+Contact added successfully.
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 1
+Enter Name: Abdul
+Enter Phone (unique): 9032324545
+Contact with this phone already exists!
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 2
+
+Contact List:
+Name: Hari, Phone: 9090676758, Email: hari@gmail.com 
+Name: Ram, Phone: 9032324545, Email: ram@gmail.com   
+Name: Hari, Phone: 6758675890, Email: hai1@gmail.com 
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 3
+Enter phone to search: 9090676758
+Found: Name: Hari, Phone: 9090676758, Email: hari@gmail.com
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 4
+Enter phone to edit: 9090676758
+Enter new Name: Naman
+Enter new Email: namn@gmail.com
+Contact updated successfully.
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 2
+
+Contact List:
+Name: Naman, Phone: 9090676758, Email: namn@gmail.com
+Name: Ram, Phone: 9032324545, Email: ram@gmail.com   
+Name: Hari, Phone: 6758675890, Email: hai1@gmail.com 
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 5
+Enter phone to delete: 6758675890
+Contact deleted successfully.
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 2
+
+Contact List:
+Name: Naman, Phone: 9090676758, Email: namn@gmail.com
+Name: Ram, Phone: 9032324545, Email: ram@gmail.com   
+
+Contact Management System
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Edit Contact
+5. Delete Contact
+6. Exit
+Enter choice: 6
+Exiting...
